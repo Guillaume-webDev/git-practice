@@ -1,0 +1,5 @@
+Name: Guillaume
+Age: 33
+Favorite Color: Red
+git init
+git --version
